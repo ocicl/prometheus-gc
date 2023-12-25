@@ -1,0 +1,10 @@
+* prometheus-gc
+
+Extension for prometheus.cl which collects metrics about garbage
+collector state.
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/40ants/prometheus-gc.git |
+| commit  | 6e446f6                                         |
+| systems | prometheus-gc                                   |
+|---------+-------------------------------------------------|
