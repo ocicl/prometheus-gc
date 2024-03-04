@@ -5,6 +5,6 @@ collector state.
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/40ants/prometheus-gc.git |
-| commit  | 6e446f6                                         |
+| commit  | 246eb0e                                         |
 | systems | prometheus-gc                                   |
 |---------+-------------------------------------------------|
